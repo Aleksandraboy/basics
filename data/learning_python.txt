@@ -1,0 +1,7 @@
+In Python you can change the value of a variable in your program.
+In Python you can change case in a string with methods.
+In Python you can put anything into a list and working with the elements.
+In Python you can write simple if statements.
+In Python you can use dictionaries.
+In Python you can use while loop.
+in Python you can pass information to functions and store functions in separate files called modules.
